@@ -4,5 +4,5 @@
 
 
 - fourth year computer science student at toronto metropolitan university (fka ryerson university)
-- mhmr application developer at the inclusive media and design center 
+- mhmr application developer at the inclusive media and design center at tmu
 
